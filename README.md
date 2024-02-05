@@ -4,18 +4,23 @@ This Python code provides a novel way for users to convert handwritten sketches 
 
 
 Deployment
+bash`
 To deploy this project run
-
+`
 1:
 bash `
   git clone https://github.com/AminHaghdadi/sketch_to_HTML_Code.git`
+  
 2: install requirements:
+
 bash`
   pip install -r requirement.txt `
+  
 3:
 
 Enter your OpenAI API in .env files
 
 4: Run in Terminal
+
 bash`
   streamlit run main.py`
