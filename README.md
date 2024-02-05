@@ -7,8 +7,10 @@ This Python code provides a novel way for users to convert handwritten sketches 
 
 
 1:
+
  `
   git clone https://github.com/Hamza-Tahirr/Picture-to-HTML-Converter-Using-LLM-and-OCR.git`
+
   
 2: install requirements:
 
